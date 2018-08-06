@@ -1,0 +1,29 @@
+{
+  "name": "both-require",
+  "version": "1.0.0",
+  "description": "Require to both way of relatively and absolutely",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "require",
+    "absolute",
+    "relative",
+    "both",
+    "import",
+    "use"
+  ],
+  "author": {
+    "name": "tinyjin",
+    "email": "baram991103@gmail.com",
+    "url": "http://jinui.kr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tinyjin/both-require.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/tinyjin/both-require"
+}
