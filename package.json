@@ -1,6 +1,6 @@
 {
   "name": "both-require",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Require to both way of relatively and absolutely",
   "main": "index.js",
   "scripts": {
