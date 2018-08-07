@@ -6,8 +6,7 @@ both-require was born for solving **require hell** as you can see below.
 ```
 const moduleA = require('../../../../moduleA');
 ```
-and then not only support absoulte path.
-If you want require relatively, you can use relative path.
+and then you can use relative path, additionally. because of support both way path.
 
 ## Install
 ```
@@ -37,7 +36,7 @@ const priModule = use('priModule');
 ``` 
 
 ## Authors
-tinyjin - [Github]('https://github.com/tinyjin'), [Blog]('http://jinui.kr')
+tinyjin - [Github](https://github.com/tinyjin), [Blog](http://jinui.kr)
 
 ## License
 This project has MIT License.
